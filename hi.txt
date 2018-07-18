@@ -1,2 +1,6 @@
 hi 
+<<<<<<< HEAD
 hi testing 
+=======
+this is my dev change
+>>>>>>> cbde5ac09c5f80ce65d244a453ff63379f4eaaee
